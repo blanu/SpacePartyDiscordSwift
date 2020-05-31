@@ -1,15 +1,16 @@
 import XCTest
 @testable import SpacePartyDiscordSwift
+import Sword
+import Song
 
 final class SpacePartyDiscordSwiftTests: XCTestCase {
     func testExample() {
-        // This is an example of a functional test case.
-        // Use XCTAssert and related functions to verify your tests produce the correct
-        // results.
-        XCTAssertEqual(SpacePartyDiscordSwift().text, "Hello, World!")
+        guard let bot = SpacePartyBot(path: "/Users/brandon/SpacePartyDiscordSwift/secret.swift") else
+        {
+            XCTFail()
+            return
+        }
+        
+        bot.run()
     }
-
-    static var allTests = [
-        ("testExample", testExample),
-    ]
 }

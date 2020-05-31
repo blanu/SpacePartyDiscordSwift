@@ -1,0 +1,70 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "SSCommonCrypto",
+        "repositoryURL": "https://github.com/Azoy/common-crypto-spm.git",
+        "state": {
+          "branch": null,
+          "revision": "7e9904a0d0c0024a86ab6fe5698ffc8f7799efb4",
+          "version": "1.2.0"
+        }
+      },
+      {
+        "package": "Datable",
+        "repositoryURL": "https://github.com/OperatorFoundation/Datable",
+        "state": {
+          "branch": null,
+          "revision": "7387409895e3998d9169007df3fd4a37ad74cb4a",
+          "version": "2.0.2"
+        }
+      },
+      {
+        "package": "Song",
+        "repositoryURL": "https://github.com/OperatorFoundation/Song",
+        "state": {
+          "branch": null,
+          "revision": "255d73c6edbbeee6f14061a63839d12426636cc7",
+          "version": "0.0.9"
+        }
+      },
+      {
+        "package": "Starscream",
+        "repositoryURL": "https://github.com/Azoy/Starscream.git",
+        "state": {
+          "branch": null,
+          "revision": "a21fca8e9dc83cf3a88a3ba9be15ff17a7e4e8d6",
+          "version": "3.0.5"
+        }
+      },
+      {
+        "package": "swift-ast",
+        "repositoryURL": "https://github.com/yanagiba/swift-ast",
+        "state": {
+          "branch": null,
+          "revision": "e8507d78b32dbd33ea5ea975bbbc82b7613870a1",
+          "version": "0.19.9"
+        }
+      },
+      {
+        "package": "Sword",
+        "repositoryURL": "https://github.com/Azoy/Sword",
+        "state": {
+          "branch": "master",
+          "revision": "d8097bd5b3881d6d4bae4feebf005592f7ffa573",
+          "version": null
+        }
+      },
+      {
+        "package": "SSCZLib",
+        "repositoryURL": "https://github.com/Azoy/zlib-spm.git",
+        "state": {
+          "branch": null,
+          "revision": "f92fc0658af4cd9b11f233e9c02786ecbf75f1ee",
+          "version": "1.2.0"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
